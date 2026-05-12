@@ -1,0 +1,4 @@
+source;share/sfr_coursework2_interface_package/environment/ament_prefix_path.sh
+source;share/sfr_coursework2_interface_package/environment/library_path.sh
+source;share/sfr_coursework2_interface_package/environment/path.sh
+source;share/sfr_coursework2_interface_package/environment/pythonpath.sh

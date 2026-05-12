@@ -1,0 +1,3 @@
+[console_scripts]
+chrono_guardian_controller_node = chrono_guardian_controller_pkg.chrono_guardian_controller_node:main
+dummy_action_client = chrono_guardian_controller_pkg.dummy_action_client:main

@@ -1,0 +1,2 @@
+[console_scripts]
+chrono_guardian_navigation_node = chrono_guardian_navigation_pkg.chrono_guardian_navigation_node:main

@@ -1,0 +1,37 @@
+[0.950s] Invoking command in '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/src/chrono_guardian_controller_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_controller_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_controller_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/chrono_guardian_controller_pkg build --build-base /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_controller_pkg/build install --record /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_controller_pkg/install.log --single-version-externally-managed install_data
+[1.286s] running egg_info
+[1.286s] creating ../../build/chrono_guardian_controller_pkg/chrono_guardian_controller_pkg.egg-info
+[1.307s] writing ../../build/chrono_guardian_controller_pkg/chrono_guardian_controller_pkg.egg-info/PKG-INFO
+[1.307s] writing dependency_links to ../../build/chrono_guardian_controller_pkg/chrono_guardian_controller_pkg.egg-info/dependency_links.txt
+[1.308s] writing entry points to ../../build/chrono_guardian_controller_pkg/chrono_guardian_controller_pkg.egg-info/entry_points.txt
+[1.308s] writing requirements to ../../build/chrono_guardian_controller_pkg/chrono_guardian_controller_pkg.egg-info/requires.txt
+[1.308s] writing top-level names to ../../build/chrono_guardian_controller_pkg/chrono_guardian_controller_pkg.egg-info/top_level.txt
+[1.308s] writing manifest file '../../build/chrono_guardian_controller_pkg/chrono_guardian_controller_pkg.egg-info/SOURCES.txt'
+[1.351s] reading manifest file '../../build/chrono_guardian_controller_pkg/chrono_guardian_controller_pkg.egg-info/SOURCES.txt'
+[1.351s] writing manifest file '../../build/chrono_guardian_controller_pkg/chrono_guardian_controller_pkg.egg-info/SOURCES.txt'
+[1.352s] running build
+[1.352s] running build_py
+[1.352s] creating /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_controller_pkg/build
+[1.352s] creating /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_controller_pkg/build/lib
+[1.353s] creating /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_controller_pkg/build/lib/chrono_guardian_controller_pkg
+[1.353s] copying chrono_guardian_controller_pkg/chrono_guardian_controller_node.py -> /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_controller_pkg/build/lib/chrono_guardian_controller_pkg
+[1.353s] copying chrono_guardian_controller_pkg/__init__.py -> /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_controller_pkg/build/lib/chrono_guardian_controller_pkg
+[1.353s] running install
+[1.360s] running install_lib
+[1.382s] creating /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_controller_pkg/lib/python3.12/site-packages/chrono_guardian_controller_pkg
+[1.382s] copying /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_controller_pkg/build/lib/chrono_guardian_controller_pkg/chrono_guardian_controller_node.py -> /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_controller_pkg/lib/python3.12/site-packages/chrono_guardian_controller_pkg
+[1.382s] copying /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_controller_pkg/build/lib/chrono_guardian_controller_pkg/__init__.py -> /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_controller_pkg/lib/python3.12/site-packages/chrono_guardian_controller_pkg
+[1.382s] byte-compiling /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_controller_pkg/lib/python3.12/site-packages/chrono_guardian_controller_pkg/chrono_guardian_controller_node.py to chrono_guardian_controller_node.cpython-312.pyc
+[1.384s] byte-compiling /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_controller_pkg/lib/python3.12/site-packages/chrono_guardian_controller_pkg/__init__.py to __init__.cpython-312.pyc
+[1.384s] running install_data
+[1.385s] creating /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_controller_pkg/share/ament_index
+[1.385s] creating /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_controller_pkg/share/ament_index/resource_index
+[1.385s] creating /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_controller_pkg/share/ament_index/resource_index/packages
+[1.385s] copying resource/chrono_guardian_controller_pkg -> /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_controller_pkg/share/ament_index/resource_index/packages
+[1.385s] copying package.xml -> /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_controller_pkg/share/chrono_guardian_controller_pkg
+[1.385s] running install_egg_info
+[1.439s] Copying ../../build/chrono_guardian_controller_pkg/chrono_guardian_controller_pkg.egg-info to /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_controller_pkg/lib/python3.12/site-packages/chrono_guardian_controller_pkg-0.0.0-py3.12.egg-info
+[1.440s] running install_scripts
+[1.594s] Installing chrono_guardian_controller_node script to /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_controller_pkg/lib/chrono_guardian_controller_pkg
+[1.595s] writing list of installed files to '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_controller_pkg/install.log'
+[1.666s] Invoked command in '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/src/chrono_guardian_controller_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_controller_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_controller_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/chrono_guardian_controller_pkg build --build-base /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_controller_pkg/build install --record /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_controller_pkg/install.log --single-version-externally-managed install_data

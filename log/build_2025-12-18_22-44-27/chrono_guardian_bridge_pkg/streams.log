@@ -1,0 +1,19 @@
+[2.344s] Invoking command in '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/src/chrono_guardian_bridge_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_bridge_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_bridge_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/chrono_guardian_bridge_pkg build --build-base /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_bridge_pkg/build install --record /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_bridge_pkg/install.log --single-version-externally-managed install_data
+[2.991s] running egg_info
+[3.036s] writing ../../build/chrono_guardian_bridge_pkg/chrono_guardian_bridge_pkg.egg-info/PKG-INFO
+[3.036s] writing dependency_links to ../../build/chrono_guardian_bridge_pkg/chrono_guardian_bridge_pkg.egg-info/dependency_links.txt
+[3.036s] writing requirements to ../../build/chrono_guardian_bridge_pkg/chrono_guardian_bridge_pkg.egg-info/requires.txt
+[3.036s] writing top-level names to ../../build/chrono_guardian_bridge_pkg/chrono_guardian_bridge_pkg.egg-info/top_level.txt
+[3.122s] reading manifest file '../../build/chrono_guardian_bridge_pkg/chrono_guardian_bridge_pkg.egg-info/SOURCES.txt'
+[3.124s] writing manifest file '../../build/chrono_guardian_bridge_pkg/chrono_guardian_bridge_pkg.egg-info/SOURCES.txt'
+[3.124s] running build
+[3.124s] running build_py
+[3.124s] running install
+[3.135s] running install_lib
+[3.178s] running install_data
+[3.178s] running install_egg_info
+[3.224s] removing '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_bridge_pkg/lib/python3.12/site-packages/chrono_guardian_bridge_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+[3.224s] Copying ../../build/chrono_guardian_bridge_pkg/chrono_guardian_bridge_pkg.egg-info to /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_bridge_pkg/lib/python3.12/site-packages/chrono_guardian_bridge_pkg-0.0.0-py3.12.egg-info
+[3.225s] running install_scripts
+[3.523s] writing list of installed files to '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_bridge_pkg/install.log'
+[3.586s] Invoked command in '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/src/chrono_guardian_bridge_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_bridge_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_bridge_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/chrono_guardian_bridge_pkg build --build-base /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_bridge_pkg/build install --record /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_bridge_pkg/install.log --single-version-externally-managed install_data

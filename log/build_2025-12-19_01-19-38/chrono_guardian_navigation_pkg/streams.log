@@ -1,0 +1,21 @@
+[2.167s] Invoking command in '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/src/chrono_guardian_navigation_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_navigation_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_navigation_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/chrono_guardian_navigation_pkg build --build-base /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_navigation_pkg/build install --record /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_navigation_pkg/install.log --single-version-externally-managed install_data
+[2.726s] running egg_info
+[2.766s] writing ../../build/chrono_guardian_navigation_pkg/chrono_guardian_navigation_pkg.egg-info/PKG-INFO
+[2.766s] writing dependency_links to ../../build/chrono_guardian_navigation_pkg/chrono_guardian_navigation_pkg.egg-info/dependency_links.txt
+[2.767s] writing entry points to ../../build/chrono_guardian_navigation_pkg/chrono_guardian_navigation_pkg.egg-info/entry_points.txt
+[2.767s] writing requirements to ../../build/chrono_guardian_navigation_pkg/chrono_guardian_navigation_pkg.egg-info/requires.txt
+[2.767s] writing top-level names to ../../build/chrono_guardian_navigation_pkg/chrono_guardian_navigation_pkg.egg-info/top_level.txt
+[2.851s] reading manifest file '../../build/chrono_guardian_navigation_pkg/chrono_guardian_navigation_pkg.egg-info/SOURCES.txt'
+[2.852s] writing manifest file '../../build/chrono_guardian_navigation_pkg/chrono_guardian_navigation_pkg.egg-info/SOURCES.txt'
+[2.853s] running build
+[2.853s] running build_py
+[2.853s] running install
+[2.864s] running install_lib
+[2.906s] running install_data
+[2.907s] running install_egg_info
+[2.952s] removing '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_navigation_pkg/lib/python3.12/site-packages/chrono_guardian_navigation_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+[2.952s] Copying ../../build/chrono_guardian_navigation_pkg/chrono_guardian_navigation_pkg.egg-info to /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_navigation_pkg/lib/python3.12/site-packages/chrono_guardian_navigation_pkg-0.0.0-py3.12.egg-info
+[2.953s] running install_scripts
+[3.224s] Installing chrono_guardian_navigation_node script to /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_navigation_pkg/lib/chrono_guardian_navigation_pkg
+[3.225s] writing list of installed files to '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_navigation_pkg/install.log'
+[3.286s] Invoked command in '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/src/chrono_guardian_navigation_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_navigation_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/chrono_guardian_navigation_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/chrono_guardian_navigation_pkg build --build-base /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_navigation_pkg/build install --record /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/chrono_guardian_navigation_pkg/install.log --single-version-externally-managed install_data

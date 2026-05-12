@@ -1,0 +1,237 @@
+[0.284s] Invoking command in '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/sfr_coursework2_interface_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/src/sfr_coursework2_interface_package -DCMAKE_INSTALL_PREFIX=/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package
+[0.452s] -- The C compiler identification is GNU 13.3.0
+[0.583s] -- The CXX compiler identification is GNU 13.3.0
+[0.627s] -- Detecting C compiler ABI info
+[0.782s] -- Detecting C compiler ABI info - done
+[0.796s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.797s] -- Detecting C compile features
+[0.798s] -- Detecting C compile features - done
+[0.821s] -- Detecting CXX compiler ABI info
+[0.985s] -- Detecting CXX compiler ABI info - done
+[0.998s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.998s] -- Detecting CXX compile features
+[0.999s] -- Detecting CXX compile features - done
+[1.016s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.244s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.440s] -- Found geometry_msgs: 5.3.6 (/opt/ros/jazzy/share/geometry_msgs/cmake)
+[1.531s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.555s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.584s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.630s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.736s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[1.761s] -- Found rosidl_adapter: 4.6.6 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[2.801s] -- Found ament_cmake_ros: 0.12.0 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+[4.119s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.621s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.632s] -- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+[4.846s] -- Found PythonExtra: /usr/bin/python3  
+[5.602s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development NumPy Development.Module Development.Embed 
+[5.700s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[5.759s] -- Added test 'lint_cmake' to check CMake code style
+[5.761s] -- Added test 'xmllint' to check XML markup files
+[5.769s] -- Configuring done (5.4s)
+[5.831s] -- Generating done (0.0s)
+[5.852s] -- Build files have been written to: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/sfr_coursework2_interface_package
+[5.865s] Invoked command in '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/sfr_coursework2_interface_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/src/sfr_coursework2_interface_package -DCMAKE_INSTALL_PREFIX=/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package
+[5.867s] Invoking command in '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/sfr_coursework2_interface_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/sfr_coursework2_interface_package -- -j12 -l12
+[5.959s] [  2%] [34m[1mGenerating type hashes for ROS interfaces[0m
+[5.976s] [  2%] Built target ament_cmake_python_copy_sfr_coursework2_interface_package
+[6.254s] [  2%] Built target sfr_coursework2_interface_package__rosidl_generator_type_description
+[6.257s] running egg_info
+[6.259s] creating sfr_coursework2_interface_package.egg-info
+[6.272s] [  5%] [34m[1mGenerating C code for ROS interfaces[0m
+[6.280s] writing sfr_coursework2_interface_package.egg-info/PKG-INFO
+[6.280s] writing dependency_links to sfr_coursework2_interface_package.egg-info/dependency_links.txt
+[6.280s] writing top-level names to sfr_coursework2_interface_package.egg-info/top_level.txt
+[6.280s] writing manifest file 'sfr_coursework2_interface_package.egg-info/SOURCES.txt'
+[6.296s] [  8%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[6.357s] reading manifest file 'sfr_coursework2_interface_package.egg-info/SOURCES.txt'
+[6.358s] writing manifest file 'sfr_coursework2_interface_package.egg-info/SOURCES.txt'
+[6.401s] [  8%] Built target ament_cmake_python_build_sfr_coursework2_interface_package_egg
+[6.780s] [  8%] Built target sfr_coursework2_interface_package__cpp
+[6.833s] [ 11%] [32mBuilding C object CMakeFiles/sfr_coursework2_interface_package__rosidl_generator_c.dir/rosidl_generator_c/sfr_coursework2_interface_package/action/detail/drone_control__description.c.o[0m
+[6.837s] [ 17%] [32mBuilding C object CMakeFiles/sfr_coursework2_interface_package__rosidl_generator_c.dir/rosidl_generator_c/sfr_coursework2_interface_package/action/detail/drone_control__type_support.c.o[0m
+[6.837s] [ 17%] [32mBuilding C object CMakeFiles/sfr_coursework2_interface_package__rosidl_generator_c.dir/rosidl_generator_c/sfr_coursework2_interface_package/action/detail/drone_control__functions.c.o[0m
+[7.090s] [ 20%] [32m[1mLinking C shared library libsfr_coursework2_interface_package__rosidl_generator_c.so[0m
+[7.166s] [ 20%] Built target sfr_coursework2_interface_package__rosidl_generator_c
+[7.185s] [ 23%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[7.185s] [ 26%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[7.188s] [ 29%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[7.188s] [ 32%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[7.189s] [ 35%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[7.189s] [ 38%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[7.658s] [ 41%] [32mBuilding C object CMakeFiles/sfr_coursework2_interface_package__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/sfr_coursework2_interface_package/action/detail/drone_control__type_support.c.o[0m
+[7.782s] [ 44%] [32mBuilding CXX object CMakeFiles/sfr_coursework2_interface_package__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/sfr_coursework2_interface_package/action/drone_control__type_support.cpp.o[0m
+[7.783s] [ 47%] [32mBuilding CXX object CMakeFiles/sfr_coursework2_interface_package__rosidl_typesupport_c.dir/rosidl_typesupport_c/sfr_coursework2_interface_package/action/drone_control__type_support.cpp.o[0m
+[7.785s] [ 50%] [32m[1mLinking C shared library libsfr_coursework2_interface_package__rosidl_typesupport_introspection_c.so[0m
+[7.793s] [ 52%] [32mBuilding CXX object CMakeFiles/sfr_coursework2_interface_package__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/sfr_coursework2_interface_package/action/detail/dds_fastrtps/drone_control__type_support.cpp.o[0m
+[7.839s] [ 52%] Built target sfr_coursework2_interface_package__rosidl_typesupport_introspection_c
+[7.905s] [ 55%] [32mBuilding CXX object CMakeFiles/sfr_coursework2_interface_package__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/sfr_coursework2_interface_package/action/detail/drone_control__type_support.cpp.o[0m
+[7.909s] [ 58%] [32m[1mLinking CXX shared library libsfr_coursework2_interface_package__rosidl_typesupport_c.so[0m
+[7.986s] [ 58%] Built target sfr_coursework2_interface_package__rosidl_typesupport_c
+[8.071s] [ 61%] [32mBuilding CXX object CMakeFiles/sfr_coursework2_interface_package__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/sfr_coursework2_interface_package/action/detail/drone_control__type_support_c.cpp.o[0m
+[8.779s] [ 64%] [32m[1mLinking CXX shared library libsfr_coursework2_interface_package__rosidl_typesupport_fastrtps_c.so[0m
+[8.893s] [ 64%] Built target sfr_coursework2_interface_package__rosidl_typesupport_fastrtps_c
+[9.098s] [ 67%] [32m[1mLinking CXX shared library libsfr_coursework2_interface_package__rosidl_typesupport_cpp.so[0m
+[9.159s] [ 70%] [32m[1mLinking CXX shared library libsfr_coursework2_interface_package__rosidl_typesupport_fastrtps_cpp.so[0m
+[9.252s] [ 70%] Built target sfr_coursework2_interface_package__rosidl_typesupport_cpp
+[9.287s] [ 73%] [32m[1mLinking CXX shared library libsfr_coursework2_interface_package__rosidl_typesupport_introspection_cpp.so[0m
+[9.297s] [ 73%] Built target sfr_coursework2_interface_package__rosidl_typesupport_fastrtps_cpp
+[9.396s] [ 73%] Built target sfr_coursework2_interface_package__rosidl_typesupport_introspection_cpp
+[9.432s] [ 73%] Built target sfr_coursework2_interface_package
+[9.475s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[10.210s] [ 76%] Built target sfr_coursework2_interface_package__py
+[10.254s] [ 79%] [32mBuilding C object CMakeFiles/sfr_coursework2_interface_package__rosidl_generator_py.dir/rosidl_generator_py/sfr_coursework2_interface_package/action/_drone_control_s.c.o[0m
+[10.553s] [ 82%] [32m[1mLinking C shared library libsfr_coursework2_interface_package__rosidl_generator_py.so[0m
+[10.628s] [ 82%] Built target sfr_coursework2_interface_package__rosidl_generator_py
+[10.672s] [ 85%] [32mBuilding C object CMakeFiles/sfr_coursework2_interface_package_s__rosidl_typesupport_fastrtps_c.dir/rosidl_generator_py/sfr_coursework2_interface_package/_sfr_coursework2_interface_package_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[10.674s] [ 88%] [32mBuilding C object CMakeFiles/sfr_coursework2_interface_package_s__rosidl_typesupport_introspection_c.dir/rosidl_generator_py/sfr_coursework2_interface_package/_sfr_coursework2_interface_package_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[10.676s] [ 91%] [32mBuilding C object CMakeFiles/sfr_coursework2_interface_package_s__rosidl_typesupport_c.dir/rosidl_generator_py/sfr_coursework2_interface_package/_sfr_coursework2_interface_package_s.ep.rosidl_typesupport_c.c.o[0m
+[10.848s] [ 94%] [32m[1mLinking C shared module rosidl_generator_py/sfr_coursework2_interface_package/sfr_coursework2_interface_package_s__rosidl_typesupport_c.so[0m
+[10.853s] [ 97%] [32m[1mLinking C shared module rosidl_generator_py/sfr_coursework2_interface_package/sfr_coursework2_interface_package_s__rosidl_typesupport_fastrtps_c.so[0m
+[10.901s] [ 97%] Built target sfr_coursework2_interface_package_s__rosidl_typesupport_c
+[10.902s] [ 97%] Built target sfr_coursework2_interface_package_s__rosidl_typesupport_fastrtps_c
+[10.921s] [100%] [32m[1mLinking C shared module rosidl_generator_py/sfr_coursework2_interface_package/sfr_coursework2_interface_package_s__rosidl_typesupport_introspection_c.so[0m
+[10.985s] [100%] Built target sfr_coursework2_interface_package_s__rosidl_typesupport_introspection_c
+[11.002s] Invoked command in '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/sfr_coursework2_interface_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/sfr_coursework2_interface_package -- -j12 -l12
+[11.015s] Invoking command in '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/sfr_coursework2_interface_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/sfr_coursework2_interface_package
+[11.033s] -- Install configuration: ""
+[11.033s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/ament_index/resource_index/rosidl_interfaces/sfr_coursework2_interface_package
+[11.033s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/action/DroneControl.json
+[11.034s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package
+[11.034s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action
+[11.034s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail
+[11.034s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/drone_control__type_support.h
+[11.034s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/drone_control__struct.h
+[11.035s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/drone_control__functions.h
+[11.035s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/drone_control__functions.c
+[11.035s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/drone_control__type_support.c
+[11.035s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/drone_control__description.c
+[11.035s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/drone_control.h
+[11.035s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/msg
+[11.036s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/msg/rosidl_generator_c__visibility_control.h
+[11.036s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/environment/library_path.sh
+[11.036s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/environment/library_path.dsv
+[11.036s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/libsfr_coursework2_interface_package__rosidl_generator_c.so
+[11.036s] -- Set non-toolchain portion of runtime path of "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/libsfr_coursework2_interface_package__rosidl_generator_c.so" to ""
+[11.037s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package
+[11.037s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action
+[11.037s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail
+[11.037s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/drone_control__rosidl_typesupport_fastrtps_c.h
+[11.037s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/msg
+[11.038s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[11.038s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/libsfr_coursework2_interface_package__rosidl_typesupport_fastrtps_c.so
+[11.038s] -- Set non-toolchain portion of runtime path of "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/libsfr_coursework2_interface_package__rosidl_typesupport_fastrtps_c.so" to ""
+[11.038s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package
+[11.039s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action
+[11.039s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail
+[11.039s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/drone_control__struct.hpp
+[11.039s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/drone_control__traits.hpp
+[11.039s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/drone_control__builder.hpp
+[11.040s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/drone_control__type_support.hpp
+[11.040s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/drone_control.hpp
+[11.040s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/msg
+[11.040s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/msg/rosidl_generator_cpp__visibility_control.hpp
+[11.040s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package
+[11.040s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action
+[11.041s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail
+[11.041s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/drone_control__rosidl_typesupport_fastrtps_cpp.hpp
+[11.041s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/dds_fastrtps
+[11.041s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/msg
+[11.042s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[11.042s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/libsfr_coursework2_interface_package__rosidl_typesupport_fastrtps_cpp.so
+[11.042s] -- Set non-toolchain portion of runtime path of "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/libsfr_coursework2_interface_package__rosidl_typesupport_fastrtps_cpp.so" to ""
+[11.042s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package
+[11.042s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action
+[11.043s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail
+[11.043s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/drone_control__rosidl_typesupport_introspection_c.h
+[11.043s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/drone_control__type_support.c
+[11.043s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/msg
+[11.043s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[11.044s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/libsfr_coursework2_interface_package__rosidl_typesupport_introspection_c.so
+[11.044s] -- Set non-toolchain portion of runtime path of "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/libsfr_coursework2_interface_package__rosidl_typesupport_introspection_c.so" to ""
+[11.044s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/libsfr_coursework2_interface_package__rosidl_typesupport_c.so
+[11.044s] -- Set non-toolchain portion of runtime path of "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/libsfr_coursework2_interface_package__rosidl_typesupport_c.so" to ""
+[11.045s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package
+[11.045s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action
+[11.045s] -- Up-to-date: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail
+[11.045s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/drone_control__type_support.cpp
+[11.046s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/include/sfr_coursework2_interface_package/sfr_coursework2_interface_package/action/detail/drone_control__rosidl_typesupport_introspection_cpp.hpp
+[11.046s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/libsfr_coursework2_interface_package__rosidl_typesupport_introspection_cpp.so
+[11.046s] -- Set non-toolchain portion of runtime path of "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/libsfr_coursework2_interface_package__rosidl_typesupport_introspection_cpp.so" to ""
+[11.046s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/libsfr_coursework2_interface_package__rosidl_typesupport_cpp.so
+[11.046s] -- Set non-toolchain portion of runtime path of "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/libsfr_coursework2_interface_package__rosidl_typesupport_cpp.so" to ""
+[11.047s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/environment/pythonpath.sh
+[11.047s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/environment/pythonpath.dsv
+[11.047s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package-0.0.0-py3.12.egg-info
+[11.047s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package-0.0.0-py3.12.egg-info/SOURCES.txt
+[11.047s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package-0.0.0-py3.12.egg-info/PKG-INFO
+[11.047s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package-0.0.0-py3.12.egg-info/dependency_links.txt
+[11.048s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package-0.0.0-py3.12.egg-info/top_level.txt
+[11.048s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package
+[11.048s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/_sfr_coursework2_interface_package_s.ep.rosidl_typesupport_introspection_c.c
+[11.048s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/action
+[11.048s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/action/_drone_control.py
+[11.048s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/action/__init__.py
+[11.049s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/action/_drone_control_s.c
+[11.049s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/sfr_coursework2_interface_package_s__rosidl_typesupport_c.so
+[11.049s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/sfr_coursework2_interface_package_s__rosidl_typesupport_fastrtps_c.so
+[11.049s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/__init__.py
+[11.049s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/_sfr_coursework2_interface_package_s.ep.rosidl_typesupport_c.c
+[11.049s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/sfr_coursework2_interface_package_s__rosidl_typesupport_introspection_c.so
+[11.050s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/_sfr_coursework2_interface_package_s.ep.rosidl_typesupport_fastrtps_c.c
+[11.116s] Listing '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package'...
+[11.116s] Compiling '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/__init__.py'...
+[11.116s] Listing '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/action'...
+[11.116s] Compiling '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/action/__init__.py'...
+[11.116s] Compiling '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/action/_drone_control.py'...
+[11.123s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/sfr_coursework2_interface_package_s__rosidl_typesupport_fastrtps_c.so
+[11.124s] -- Set non-toolchain portion of runtime path of "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/sfr_coursework2_interface_package_s__rosidl_typesupport_fastrtps_c.so" to ""
+[11.124s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/sfr_coursework2_interface_package_s__rosidl_typesupport_introspection_c.so
+[11.124s] -- Set non-toolchain portion of runtime path of "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/sfr_coursework2_interface_package_s__rosidl_typesupport_introspection_c.so" to ""
+[11.124s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/sfr_coursework2_interface_package_s__rosidl_typesupport_c.so
+[11.125s] -- Set non-toolchain portion of runtime path of "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/python3.12/site-packages/sfr_coursework2_interface_package/sfr_coursework2_interface_package_s__rosidl_typesupport_c.so" to ""
+[11.125s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/libsfr_coursework2_interface_package__rosidl_generator_py.so
+[11.125s] -- Set non-toolchain portion of runtime path of "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/lib/libsfr_coursework2_interface_package__rosidl_generator_py.so" to ""
+[11.125s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/action/DroneControl.idl
+[11.125s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/action/DroneControl.action
+[11.125s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/ament_index/resource_index/package_run_dependencies/sfr_coursework2_interface_package
+[11.125s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/ament_index/resource_index/parent_prefix_path/sfr_coursework2_interface_package
+[11.126s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/environment/ament_prefix_path.sh
+[11.126s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/environment/ament_prefix_path.dsv
+[11.126s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/environment/path.sh
+[11.126s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/environment/path.dsv
+[11.126s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/local_setup.bash
+[11.126s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/local_setup.sh
+[11.127s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/local_setup.zsh
+[11.127s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/local_setup.dsv
+[11.127s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/package.dsv
+[11.127s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/ament_index/resource_index/packages/sfr_coursework2_interface_package
+[11.127s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/export_sfr_coursework2_interface_package__rosidl_generator_cExport.cmake
+[11.127s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/export_sfr_coursework2_interface_package__rosidl_generator_cExport-noconfig.cmake
+[11.128s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/export_sfr_coursework2_interface_package__rosidl_typesupport_fastrtps_cExport.cmake
+[11.128s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/export_sfr_coursework2_interface_package__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[11.128s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/export_sfr_coursework2_interface_package__rosidl_generator_cppExport.cmake
+[11.128s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/export_sfr_coursework2_interface_package__rosidl_typesupport_fastrtps_cppExport.cmake
+[11.128s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/export_sfr_coursework2_interface_package__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[11.128s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/sfr_coursework2_interface_package__rosidl_typesupport_introspection_cExport.cmake
+[11.129s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/sfr_coursework2_interface_package__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[11.129s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/sfr_coursework2_interface_package__rosidl_typesupport_cExport.cmake
+[11.129s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/sfr_coursework2_interface_package__rosidl_typesupport_cExport-noconfig.cmake
+[11.129s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/sfr_coursework2_interface_package__rosidl_typesupport_introspection_cppExport.cmake
+[11.129s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/sfr_coursework2_interface_package__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[11.129s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/sfr_coursework2_interface_package__rosidl_typesupport_cppExport.cmake
+[11.130s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/sfr_coursework2_interface_package__rosidl_typesupport_cppExport-noconfig.cmake
+[11.130s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/export_sfr_coursework2_interface_package__rosidl_generator_pyExport.cmake
+[11.130s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/export_sfr_coursework2_interface_package__rosidl_generator_pyExport-noconfig.cmake
+[11.130s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/rosidl_cmake-extras.cmake
+[11.130s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/ament_cmake_export_dependencies-extras.cmake
+[11.130s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/ament_cmake_export_include_directories-extras.cmake
+[11.131s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/ament_cmake_export_libraries-extras.cmake
+[11.131s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/ament_cmake_export_targets-extras.cmake
+[11.131s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[11.131s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[11.131s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/sfr_coursework2_interface_packageConfig.cmake
+[11.131s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/cmake/sfr_coursework2_interface_packageConfig-version.cmake
+[11.131s] -- Installing: /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/install/sfr_coursework2_interface_package/share/sfr_coursework2_interface_package/package.xml
+[11.133s] Invoked command in '/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/sfr_coursework2_interface_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/sfr_coursework2_interface_package

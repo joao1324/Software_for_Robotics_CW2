@@ -1,0 +1,4 @@
+source;share/sfr_coursework2_interface_package/local_setup.bash
+source;share/sfr_coursework2_interface_package/local_setup.dsv
+source;share/sfr_coursework2_interface_package/local_setup.sh
+source;share/sfr_coursework2_interface_package/local_setup.zsh

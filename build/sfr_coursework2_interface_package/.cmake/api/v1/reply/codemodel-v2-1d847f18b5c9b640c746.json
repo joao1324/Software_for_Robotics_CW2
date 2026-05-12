@@ -1,0 +1,242 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-4ad1edac2c5e235eb46f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				},
+				{
+					"build" : "sfr_coursework2_interface_package__py",
+					"jsonFile" : "directory-sfr_coursework2_interface_package__py-7820c7166f0fa724192d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/sfr_coursework2_interface_package/sfr_coursework2_interface_package__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "sfr_coursework2_interface_package",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_sfr_coursework2_interface_package_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_sfr_coursework2_interface_package_egg-3d106269240fedafc240.json",
+					"name" : "ament_cmake_python_build_sfr_coursework2_interface_package_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_sfr_coursework2_interface_package::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_sfr_coursework2_interface_package-dabf1db0ab0aca2b0ae9.json",
+					"name" : "ament_cmake_python_copy_sfr_coursework2_interface_package",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfr_coursework2_interface_package::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfr_coursework2_interface_package-d028e1e7d07301b1d810.json",
+					"name" : "sfr_coursework2_interface_package",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfr_coursework2_interface_package__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfr_coursework2_interface_package__cpp-406c1529c78275fb667f.json",
+					"name" : "sfr_coursework2_interface_package__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sfr_coursework2_interface_package__py::@10ec6a7db296ee91f2a8",
+					"jsonFile" : "target-sfr_coursework2_interface_package__py-380e61104ff5bd3c0534.json",
+					"name" : "sfr_coursework2_interface_package__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfr_coursework2_interface_package__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfr_coursework2_interface_package__rosidl_generator_c-dc428a4bb970e7ae752f.json",
+					"name" : "sfr_coursework2_interface_package__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfr_coursework2_interface_package__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfr_coursework2_interface_package__rosidl_generator_py-1d9b13fe6eeca1c99b3c.json",
+					"name" : "sfr_coursework2_interface_package__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfr_coursework2_interface_package__rosidl_generator_type_description::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfr_coursework2_interface_package__rosidl_generator_type_description-c751640677786b62de03.json",
+					"name" : "sfr_coursework2_interface_package__rosidl_generator_type_description",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfr_coursework2_interface_package__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfr_coursework2_interface_package__rosidl_typesupport_c-07960a66bf060179d481.json",
+					"name" : "sfr_coursework2_interface_package__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfr_coursework2_interface_package__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfr_coursework2_interface_package__rosidl_typesupport_cpp-71f6017bcade14f7b489.json",
+					"name" : "sfr_coursework2_interface_package__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfr_coursework2_interface_package__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfr_coursework2_interface_package__rosidl_typesupport_fastrtps_c-b5e37c80b00ce3f2e69d.json",
+					"name" : "sfr_coursework2_interface_package__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfr_coursework2_interface_package__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfr_coursework2_interface_package__rosidl_typesupport_fastrtps_cpp-c5e599cd8d56057ced75.json",
+					"name" : "sfr_coursework2_interface_package__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfr_coursework2_interface_package__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfr_coursework2_interface_package__rosidl_typesupport_introspection_c-30b672afea46b2938dce.json",
+					"name" : "sfr_coursework2_interface_package__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfr_coursework2_interface_package__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfr_coursework2_interface_package__rosidl_typesupport_introspection_cpp-353ae862dd47c5a1b969.json",
+					"name" : "sfr_coursework2_interface_package__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfr_coursework2_interface_package_s__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfr_coursework2_interface_package_s__rosidl_typesupport_c-b2d7f0712b4cdd3c0916.json",
+					"name" : "sfr_coursework2_interface_package_s__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfr_coursework2_interface_package_s__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfr_coursework2_interface_package_s__rosidl_typesupport_fastrtps_c-ebf4a212187e0bbc2c47.json",
+					"name" : "sfr_coursework2_interface_package_s__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfr_coursework2_interface_package_s__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfr_coursework2_interface_package_s__rosidl_typesupport_introspection_c-5909e8d9d0e956515459.json",
+					"name" : "sfr_coursework2_interface_package_s__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfr_coursework2_interface_package_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfr_coursework2_interface_package_uninstall-8234c2b4870853bec9f3.json",
+					"name" : "sfr_coursework2_interface_package_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-694ec04ca0c79630c661.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/sfr_coursework2_interface_package",
+		"source" : "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/src/sfr_coursework2_interface_package"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,56 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "sfr_coursework2_interface_package/action/DroneControl_GetResult_Response",
+      "fields": [
+        {
+          "name": "status",
+          "type": {
+            "type_id": 2,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        },
+        {
+          "name": "result",
+          "type": {
+            "type_id": 1,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": "sfr_coursework2_interface_package/action/DroneControl_Result"
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": [
+      {
+        "type_name": "sfr_coursework2_interface_package/action/DroneControl_Result",
+        "fields": [
+          {
+            "name": "success",
+            "type": {
+              "type_id": 15,
+              "capacity": 0,
+              "string_capacity": 0,
+              "nested_type_name": ""
+            },
+            "default_value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "type_hashes": [
+    {
+      "type_name": "sfr_coursework2_interface_package/action/DroneControl_GetResult_Response",
+      "hash_string": "RIHS01_d3515f1e5edf703099e8ac0b6fddf7b3b4eb1c8d5eb320a721f988efe4f387bc"
+    },
+    {
+      "type_name": "sfr_coursework2_interface_package/action/DroneControl_Result",
+      "hash_string": "RIHS01_1932136c35ac5165e1056d4a903f5bd45c4d7c634a2cb48c5dfd06e4a7010868"
+    }
+  ]
+}

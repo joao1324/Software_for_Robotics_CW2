@@ -1,0 +1,15 @@
+{
+  "package_name": "sfr_coursework2_interface_package",
+  "output_dir": "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/sfr_coursework2_interface_package/rosidl_generator_type_description/sfr_coursework2_interface_package",
+  "idl_tuples": [
+    "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/sfr_coursework2_interface_package/rosidl_adapter/sfr_coursework2_interface_package:action/DroneControl.idl"
+  ],
+  "include_paths": [
+    "geometry_msgs:/opt/ros/jazzy/share/geometry_msgs",
+    "std_msgs:/opt/ros/jazzy/share/std_msgs",
+    "service_msgs:/opt/ros/jazzy/share/service_msgs",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces",
+    "action_msgs:/opt/ros/jazzy/share/action_msgs",
+    "unique_identifier_msgs:/opt/ros/jazzy/share/unique_identifier_msgs"
+  ]
+}

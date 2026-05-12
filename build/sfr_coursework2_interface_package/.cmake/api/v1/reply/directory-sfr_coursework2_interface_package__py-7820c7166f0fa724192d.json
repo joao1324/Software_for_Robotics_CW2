@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "sfr_coursework2_interface_package__py",
+		"source" : "/home/laptop3/UoM/SoftwareForRobotics/coursework/coursework2/build/sfr_coursework2_interface_package/sfr_coursework2_interface_package__py"
+	}
+}

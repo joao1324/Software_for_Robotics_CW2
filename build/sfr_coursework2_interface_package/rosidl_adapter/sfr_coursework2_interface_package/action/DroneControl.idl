@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from sfr_coursework2_interface_package/action/DroneControl.action
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/PoseStamped.idl"
+
+module sfr_coursework2_interface_package {
+  module action {
+    struct DroneControl_Goal {
+      geometry_msgs::msg::PoseStamped desired_pose;
+    };
+    struct DroneControl_Result {
+      boolean success;
+    };
+    struct DroneControl_Feedback {
+      geometry_msgs::msg::PoseStamped current_pose;
+    };
+  };
+};
