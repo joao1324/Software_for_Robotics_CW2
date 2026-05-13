@@ -1,4 +1,4 @@
-# Software for Robotics – Coursework 2
+# Software for Robotics - Coursework 2
 
 ROS 2 implementation of a 3D drone position controller and an autonomous navigation stack, both running in simulation.
 
@@ -18,7 +18,7 @@ The submission contains three packages:
 
 ## Tasks
 
-### Task 1 – Gazebo Bridge (`chrono_guardian_bridge_pkg`)
+### Task 1 - Gazebo Bridge (`chrono_guardian_bridge_pkg`)
 
 A launch file (`chrono_guardian_bridge_launch`) sets up four single-directional `ros_gz_bridge` connections:
 
@@ -29,7 +29,7 @@ A launch file (`chrono_guardian_bridge_launch`) sets up four single-directional 
 | `/model/target_0/pose` | `/tf` | Gazebo → ROS 2 |
 | `/model/target_1/pose` | `/tf` | Gazebo → ROS 2 |
 
-### Task 2 – Drone Controller (`chrono_guardian_controller_pkg`)
+### Task 2 - Drone Controller (`chrono_guardian_controller_pkg`)
 
 A periodic node (`chrono_guardian_controller_node`, 100 Hz) that:
 
@@ -43,7 +43,7 @@ Velocity limits enforced:
 - Linear: −0.5 ≤ vᵢ ≤ 0.5 m/s
 - Angular: −0.8 ≤ ωz ≤ 0.8 rad/s
 
-### Task 3 – Autonomous Navigation (`chrono_guardian_navigation_pkg`)
+### Task 3 - Autonomous Navigation (`chrono_guardian_navigation_pkg`)
 
 A node (`chrono_guardian_navigation_node`) that:
 
